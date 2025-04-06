@@ -1,1 +1,2 @@
 # Amazon-clone-project
+I made this project under the guidance of APNA COLLEGE, it is a youtube channel where Ms. Shraddha Khapra taught how to make this project and guided throughout. As a beginner this project helped to understand the conecpt of how big companies create their website's front-end page. As this just a clone of amazon, it is not interactive and not live. It is just the clone of amazon's home page
